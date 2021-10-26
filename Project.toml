@@ -1,0 +1,4 @@
+name = "LogDensity"
+uuid = "cfc4d1b9-d7ed-495f-a8aa-3263cf333f1e"
+authors = ["Philipp Gabler <phipsgabler@users.noreply.github.com>"]
+version = "0.1.0"
