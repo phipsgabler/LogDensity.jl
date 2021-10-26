@@ -2,7 +2,7 @@ module LogDensity
 
 export density,
     logdensity
-\_X
+
 """
     logdensity(μ, x)
 
