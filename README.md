@@ -1,3 +1,5 @@
+**This was an early draft.  It has been given up in favour of [DensityInterface.jl](https://github.com/JuliaMath/DensityInterface.jl).**
+
 # LogDensity.jl
 
 The simple purpose of this package is to provide the function `logdensity` to other packages, just
